@@ -71,12 +71,5 @@ function displaydata() {
         console.log("Please enter a proper/valid date...")
       }
 
-      function createelement (id){        
-        var element = document.createElement('p');
-        element.setAttribute('id','id');
-        return element;
-      }
-
-
 
 }
